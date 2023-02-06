@@ -108,3 +108,10 @@ button {
 .percent:active {
     background-color: rgb(123, 189, 255);
 }
+
+/* style for the html class named "easyExponents" for hw2*/
+
+.easyExponents {
+    background-color: #ff0000;
+    font-weight: bold;
+}
